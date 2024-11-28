@@ -1,4 +1,4 @@
-# **Modelagem de Tópicos**
+# **Análise de Correspondências Múltiplas (ACM)**
 
 Esse repositório serve para organizar os scripts utilizados para a Análise de Correspondências Múltiplas (ACM) utilizados na disciplina de Métodos e Técnicas de Pesquisa II (2024), sob orientação da Professora Veridiana Cordeiro. O projeto que utilizou esses scripts foi intitulado 'Ocupação' ou 'invasão': Uma análise sobre a representação da greve estudantil de 2007 na grande imprensa e nos jornais uspianos.
 
