@@ -6,6 +6,6 @@ Os dados foram extraídos por meio de questionários e entrevistas com alguns do
 
 **Importante**
 
-Ressalto que os códigos publicados nesse repositório **não foram de autoria de nenhum membro do grupo**. Os códigos foram criados em junção com códigos disponibilizados pelo Doutorando Francesco Tomei com o minicurso "Métodos quantitativos de análise com foco na Análise de Correspondências Múltiplas (ACM)", o qual foi dado por ele e a Doutoranda Mariana Cardozo Batista de Oliveira.
+Ressalto que os códigos publicados nesse repositório **não foram de autoria de nenhum membro do grupo**. Os códigos foram disponibilizados pelo Doutorando Francesco Tomei com o minicurso "Métodos quantitativos de análise com foco na Análise de Correspondências Múltiplas (ACM)", o qual foi dado por ele e a Doutoranda Mariana Cardozo Batista de Oliveira.
 
 Além disso, essa ACM serviu exclusivamente para um exercício de aprendizado, então pode conter erros que não são do conhecimento dos autores desse repositório.
